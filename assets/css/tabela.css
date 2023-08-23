@@ -6,9 +6,11 @@
     font-family: sans-serif;
 }
 
+
+
 body{
     min-height: 100vh;
-    background: url('/assets/img/fundo-tabela.jpeg') center / cover;
+    background-color: #002;
     display: flex;
     justify-content: center;
     align-items: center;
