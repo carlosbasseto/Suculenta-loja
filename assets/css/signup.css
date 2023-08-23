@@ -7,11 +7,7 @@
 }
 
 body {
-  /* background-image: url("img/bg-signup.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed */
-  background-image: url('bgsignup.png');
+ background-color: #4038a0;
 }
 
 .container {
