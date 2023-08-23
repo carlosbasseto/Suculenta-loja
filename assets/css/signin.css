@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url("fundo-sing-in.jpg");
+  background-image: url("/fundo-sing-in.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed
