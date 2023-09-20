@@ -575,9 +575,23 @@ footer span a{
   height: 200px;
 }
 
-.link-comprar{
-  color: var(--white);
+.item-reserva{
+ background: #000;
+ 
+}
 
+.item-reserva:hover{
+  background: white;
+  color: black;
+  border-radius: 50px;
+}
+
+.link-reserva{
+  color: white;
+}
+
+.link-reserva:hover{
+  color: black;
 }
 
 .container__botao{
